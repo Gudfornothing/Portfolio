@@ -24,7 +24,7 @@ const Projects = () => {
       <h2 className="heading-text">My Projects</h2>
       <div className="gallery">
         <div className="width-33">
-          <img src="../../public/assets/images/blog.png" />
+          <img src="assets/images/blog.png" />
         </div>
         <div className="width-33">
           <img src="assets/images/bmi.png" />
