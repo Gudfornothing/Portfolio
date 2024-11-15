@@ -27,22 +27,22 @@ const Projects = () => {
           <img src="../../public/assets/images/blog.png" />
         </div>
         <div className="width-33">
-          <img src="../../public/assets/images/bmi.png" />
+          <img src="assets/images/bmi.png" />
         </div>
         <div className="width-33">
-          <img src="../../public/assets/images/calorie.png" />
+          <img src="assets/images/calorie.png" />
         </div>
         <div className="width-33">
-          <img src="../../public/assets/images/zilo.png" />
+          <img src="assets/images/zilo.png" />
         </div>
         <div className="width-33">
-          <img src="../../public/assets/images/game.png" />
+          <img src="assets/images/game.png" />
         </div>
         <div className="width-33">
-          <img src="../../public/assets/images/currency.png" />
+          <img src="assets/images/currency.png" />
         </div>
         <div className="width-33">
-          <img src="../../public/assets/images/zilo1.png" />
+          <img src="assets/images/zilo1.png" />
         </div>
       </div>
     </div>

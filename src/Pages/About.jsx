@@ -22,7 +22,7 @@ const About = () => {
   <div className="main-section bg-lightgrey">
     <div className="container">
       <div className="width-50">
-        <img src="../../public/assets/images/adi.jpeg" alt="about-img" />
+        <img src="assets/images/adi.jpeg" alt="about-img" />
       </div>
       <div className="width-50">
         <div className="about-us">
