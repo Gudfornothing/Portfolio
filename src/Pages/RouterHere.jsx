@@ -14,7 +14,7 @@ const RouterHere = () => {
         <Route path='/projects' element={<Projects/>}></Route>
         <Route path='/about' element={<About/>}></Route>
       </Routes>
-      <Dashboard/>
+      
     </div>
   )
 }
