@@ -39,7 +39,7 @@ const Dashboard = () => {
         </div>
       </div>
       <div className="width-50" >
-        <img src="../../public/assets/images/aditya.jpeg" />
+        <img src="assets/images/aditya.jpeg" />
       </div>
     </div>
   </div>
